@@ -1,0 +1,47 @@
+# Silent Guard Direct Geosite List
+# Домены из этого списка должны идти напрямую, без VPN/proxy.
+# Формат domain:example.com означает example.com и все поддомены.
+
+domain:pusher.com
+domain:live-video.net
+domain:ttvnw.net
+domain:twitch.tv
+domain:mail.ru
+domain:citilink.ru
+domain:yandex.com
+domain:nvidia.com
+domain:donationalerts.com
+domain:vk.com
+domain:yandex.kz
+domain:mts.ru
+domain:multimc.org
+domain:ya.ru
+domain:dns-shop.ru
+domain:habr.com
+domain:3dnews.ru
+domain:sberbank.ru
+domain:ozon.ru
+domain:wildberries.ru
+domain:microsoft.com
+domain:microsoftonline.com
+domain:live.com
+domain:minecraft.net
+domain:xboxlive.com
+domain:akamaitechnologies.com
+domain:msi.com
+domain:2ip.ru
+domain:yandex.ru
+domain:boosty.to
+domain:tanki.su
+domain:lesta.ru
+domain:korabli.su
+domain:tanksblitz.ru
+domain:reg.ru
+domain:epicgames.dev
+domain:epicgames.com
+domain:unrealengine.com
+domain:riotgames.com
+domain:riotcdn.net
+domain:leagueoflegends.com
+domain:playvalorant.com
+domain:marketplace.visualstudio.com

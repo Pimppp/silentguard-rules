@@ -11,7 +11,7 @@
 
 Официальный телеграм-бот сервиса:
 
-👉 **[https://silentguard-vpn.space](https://t.me/SilentGuardVPN_bot)**
+👉 **https://t.me/SilentGuardVPN_bot**
 
 ---
 
@@ -177,4 +177,4 @@ geosite:silentguard-direct
 **Silent Guard** — сервис для стабильного доступа к интернету и иностранным ресурсам.
 
 🌐 Официальный телеграм-бот:  
-**[https://silentguard-vpn.space](https://t.me/SilentGuardVPN_bot)**
+**https://t.me/SilentGuardVPN_bot**

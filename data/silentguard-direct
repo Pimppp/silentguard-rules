@@ -1,0 +1,17 @@
+include:banks
+include:base
+include:cloud-cdn-hosting
+include:delivery-food-taxi
+include:dev-tech
+include:education-work-ads
+include:game-launchers
+include:gov
+include:ip-check-misc
+include:maps-transport-auto
+include:marketplaces
+include:media-news
+include:silent-guard
+include:telecom
+include:video-music-content
+include:vk-mail-ok
+include:yandex

@@ -1,6 +1,8 @@
 # --- Yandex ---
 domain:yandex.net
 domain:yandex.st
+domain:yandex.ru
+domain:ya.ru
 domain:yastatic.net
 domain:yandexcdn.net
 domain:yandexcloud.net
@@ -17,6 +19,9 @@ domain:market.yandex.ru
 domain:lavka.yandex.ru
 domain:music.yandex.ru
 domain:eda.yandex.ru
+domain:eda.yandex
 domain:taxi.yandex.ru
 domain:disk.yandex.ru
 domain:mail.yandex.ru
+domain:yandex.com
+domain:my-manager-account.com

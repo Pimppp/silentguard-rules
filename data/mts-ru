@@ -1,0 +1,22 @@
+domain:mts-ws.net
+domain:mts.ru
+domain:mymts.ru
+
+# Ads and tracking
+domain:a.mts.ru @ads
+domain:obs.mts.ru @ads
+
+# Ecosystem
+
+## Finance
+domain:dbo-dengi.online
+domain:mtsbank.ru
+domain:mtsdengi.ru
+domain:tvoyodbo.online
+
+## Kion
+domain:kion.ru
+
+## ON Media (MTS Media)
+domain:mtsmedia.ru
+domain:on-media.ru
